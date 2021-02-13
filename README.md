@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/luis-borges/dev-finance/704a909958f269a52c990a50d31c9a65ff1d9683/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="https://github.com/luis-borges/dev-finance/blob/main/assets/devfinances.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
